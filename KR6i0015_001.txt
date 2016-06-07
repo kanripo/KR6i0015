@@ -1,23 +1,21 @@
-#-*- mode: mandoku-view; -*-
-#+DATE: 2015-08-30 20:07:41.201791
+# -*- mode: mandoku-view; -*-
+#+DATE: 2016-06-08 8:25
 #+TITLE: 佛說諸佛經
 #+PROPERTY: CBETA_ID T14n0439
 #+PROPERTY: ID KR6i0015
 #+PROPERTY: SOURCE Taisho Tripitaka Vol. 14, No. 439
 #+PROPERTY: VOL 14
 #+PROPERTY: BASEEDITION T
-#+PROPERTY: WITNESS CBETA
+#+PROPERTY: WITNESS master
 #+PROPERTY: LASTPB <pb:KR6i0015_T_000-0112c>¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: LASTPB <pb:KR6i0015_T_001-0112c> ¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶¶
 #+PROPERTY: JUAN 1
 ¶
 ¶
-No.439¶
-
- 佛說諸佛經¶
+No. 439¶
+佛說諸佛經¶
 ¶
-西天譯經三藏朝散大夫試鴻臚卿¶
-傳法大師臣施護奉　詔譯¶
+西天譯經三藏朝散大夫試鴻臚卿傳法大師臣施護奉　詔譯¶
 
 如是我聞：
 
